@@ -46,3 +46,23 @@ finance_manager/
 ├── data.csv # Хранилище данных о транзакциях
 └── README.md # Описание проекта
 ```
+## ⚙️ Установка и запуск
+
+### 1. Клонировать репозиторий
+```
+bash
+git clone https://github.com/username/finance_manager.git
+cd finance_manager
+2. Убедиться, что установлен Python 3.10+
+Проверить версию Python:
+bash
+Копировать код
+python --version
+3. Запустить приложение
+bash
+Копировать код
+python main.py
+После запуска откроется окно приложения.
+```
+
+
